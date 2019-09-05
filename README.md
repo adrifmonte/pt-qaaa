@@ -16,5 +16,5 @@ For now, there's no Corpus for testing new rules
 
 If you want to help simplifying the Portuguese Language:
 
-- open an issue to discuss a change and/or improvement proposal and its underlying implications
+- open an issue (in English or Traditional Portuguese) to discuss a change and/or improvement proposal and its underlying implications
 - open a pull request updating this README.md with the proposed rules, and/or with updated and added tests in our corpus
